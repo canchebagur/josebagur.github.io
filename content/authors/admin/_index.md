@@ -6,10 +6,6 @@ title: José Antonio Bagur Nájera
 first_name: José
 last_name: Bagur
 
-# Status emoji
-status:
-  icon: ☕️
-
 # Is this the primary user of the site?
 superuser: true
 
@@ -17,14 +13,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Lecturer, researcher and content creator
+role: Lecturer, Researcher and Technical Content Creator
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Universidad del Valle de Guatemala
     url: https://www.uvg.edu.gt/
-  - name: Arduino
-    url: https://www.arduino.cc/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -46,9 +40,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Nanosatellites
+  - Internet of Things
+  - TinyML
 
 education:
   - area: PhD Artificial Intelligence
