@@ -26,10 +26,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jabagur@uvg.edu.gt'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/canchebagur
   - icon: brands/github
     url: https://github.com/canchebagur
   - icon: brands/linkedin
@@ -45,17 +41,17 @@ interests:
   - TinyML
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.A. Higher Education, Innovation, and Educational Technology
+    institution: Universidad del Valle de Guatemala
+    date_start: 2022-01-01
+    date_end: 2023-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: M.Sc. Internet of Things
+    institution: Universidad de Salamanca
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -65,8 +61,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: BSc Mechatronics Engineering
+    institution: Universidad del Valle de Guatemala
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -176,4 +172,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+José Bagur is a lecturer and researcher at Universidad del Valle de Guatemala (UVG). He studied Mechatronics Engineering at UVG and later earned a master’s degree in the Internet of Things (IoT) from the University of Salamanca in Spain. His research at UVG focuses on creating open-source and affordable nanosatellite hardware, with a special interest in space-related projects. José leads the Aerospace Laboratory at UVG, supporting the growth of aerospace research in Guatemala. He also works with Arduino, a platform that provides open-source hardware, software, and learning resources to a global community of over 30 million users.
