@@ -52,7 +52,7 @@ education:
       url: 'https://example.com'
   - area: M.Sc. Internet of Things
     institution: Universidad de Salamanca
-    date_start: 2016-01-01
+    date_start: 2017-01-01
     date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
@@ -131,12 +131,10 @@ skills:
         icon: camera
 
 languages:
+  - name: Spanish
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -170,7 +168,7 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Biography
 
 <p style="text-align: justify;">
 José Bagur is a lecturer and researcher at Universidad del Valle de Guatemala (UVG). He studied Mechatronics Engineering at UVG and later earned a master’s degree in the Internet of Things (IoT) from the University of Salamanca in Spain. His research at UVG focuses on creating open-source and affordable nanosatellite hardware, with a special interest in space-related projects. José leads the Aerospace Laboratory at UVG, supporting the growth of aerospace research in Guatemala. He also works with Arduino, a platform that provides open-source hardware, software, and learning resources to a global community of over 30 million users.
