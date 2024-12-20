@@ -61,7 +61,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Mechatronics Engineering
+  - area: B.Sc. Mechatronics Engineering
     institution: Universidad del Valle de Guatemala
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -172,4 +172,6 @@ awards:
 
 ## About Me
 
+<p style="text-align: justify;">
 José Bagur is a lecturer and researcher at Universidad del Valle de Guatemala (UVG). He studied Mechatronics Engineering at UVG and later earned a master’s degree in the Internet of Things (IoT) from the University of Salamanca in Spain. His research at UVG focuses on creating open-source and affordable nanosatellite hardware, with a special interest in space-related projects. José leads the Aerospace Laboratory at UVG, supporting the growth of aerospace research in Guatemala. He also works with Arduino, a platform that provides open-source hardware, software, and learning resources to a global community of over 30 million users.
+</p>
